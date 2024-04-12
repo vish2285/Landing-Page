@@ -2,4 +2,4 @@
 Lorem
 
 # Luminum has been made with 
-[![JavaScript][JavaScript]][JavaScript-url][![Vite][Vite]][Vite-url][![React.js][React.js]][React-url][![Node.js][Node.js]][Node.js-url]
+[![Made with](https://skillicons.dev/icons?i=js,html,css,react,tailwind)](https://skillicons.dev)
